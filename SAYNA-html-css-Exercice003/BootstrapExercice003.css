@@ -1,0 +1,68 @@
+header{
+    background-image: url(header_bg.jpg);
+    height: 999px;
+    width: 100%;
+    }
+    .L1{
+        display: flex;
+        margin-left: 60%;
+        margin-top: 15%;
+        padding-right: 55%;
+        }
+        .L2{
+            margin-left: 10%;
+            margin-top: 10%;
+            }
+            .L3{
+                margin-left: 27%;
+                margin-top: 15%;
+                }
+
+#PART1
+.L4 {
+    padding-left: 32%;
+    }
+    .L4 h {
+        font-size: 43px;
+        color: #ababab;
+        }
+    .L4 span {
+        font-size: 45px;
+        font-weight: bold;
+        color: white;
+        }
+        .L5 h1 {
+            font-size: 23px;
+            color: #3d9f96;
+            margin-left: 35%;
+            margin-top: 3%;
+            }
+            .L5 p {
+                font-size: 22px;
+                color: #ababab;
+                text-align: center;
+                margin-top: 2%;
+                margin-bottom: -2%;
+                }
+                .L6 .BOUTON {
+                    background-color: #3d9f96;
+                    border: none;
+                    color: white;
+                    text-align: center;
+                    font-family: "Raleway", Arial, sans-serif ;
+                    display: inline-block;
+                    font-size: 18px;
+                    height: 60px;
+                    width: 17%;
+                    border-radius: 30px;
+                    cursor: pointer;
+                    margin-left: 42%;
+                    margin-top: 4%;
+                    }
+                    .IMAGE img {
+                        width: 65%;
+                        height: 100%;
+                        margin-left: 18%;
+                        margin-top: 2.7%;
+                        }
+
